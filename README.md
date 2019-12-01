@@ -13,5 +13,8 @@ IOT
 
 在生成的字模文件中，手动去除文件开头的索引以及结尾的空行
 
+
+(教程)[https://mp.weixin.qq.com/s?__biz=MzA4NzM2MTAzNA==&mid=2457634042&idx=1&sn=a4ee1d20f9af04c4bbed056b57cdfde4&chksm=87b2b79fb0c53e89dd29942d9752cf4b7a053d6678a6a4cc8b4c9632499f13fbadc9caaf262c&token=412454592&lang=zh_CN#rd]
+
 License
 BSD New License
